@@ -1,0 +1,97 @@
+body {
+   background: #f0f0f0;
+}
+
+.sticker {
+  display: inline-block;
+  vertical-align: top;
+  text-align: center;
+  margin: 5px;
+}
+
+#coding {
+  font-size: 40px;
+  font-weight: bold;
+  font-family: Courier new;
+  background: linear-gradient(tomato ,red);
+  padding: 50px 30px;
+  border-radius: 30px;
+}
+
+#web{
+  font-size: 40px;
+  font-family: Impact;
+  text-shadow: 2px 2px grey;
+   background: radial-gradient(yellow, orange ,red);
+ padding:  30px;
+  border-radius: 100px; 
+}
+
+#MySticker{
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+  font-family: Ariel;
+    background: linear-gradient(orchid,blueviolet,turquoise);
+ padding:  40px;
+  border-radius: 50px; 
+}
+
+#firerobot{
+ outline: 5px solid purple;
+ background:linear-gradient(to bottom left,white,ivory,grey);
+  border: 10px dashed magenta; 
+   outline-offset: 2px  ;
+  position: relative;
+
+}
+#firetext{
+   font-size: 30px;
+  font-family: Impact; 
+  position: absolute;
+  bottom: 120px;
+  left:40px;
+  transform: rotate(-15deg);
+}
+
+
+
+#spacerobot{
+ outline: 5px solid white;
+ background:linear-gradient(to top right,yellow,green ,blue);
+  border: 10px black; 
+   padding:  10px   20px 160px 20px;
+ position: relative; 
+   border-radius: 10px; 
+
+}
+#spacetext{
+   font-size: 30px;
+  font-family: Impact; 
+  position: absolute;
+  bottom:  20px;
+  left:40px;
+  transform: rotate(-15deg);
+}
+
+
+#yellowrobot{
+  background:  linear-gradient(#708090 ,rgb(240,255,255),beige);
+  border: 20px blue; 
+   padding:  10px   20px 100px 20px;
+ position: relative; 
+   border-radius: 10px; 
+
+}
+#yellowtext{
+   font-size: 30px;
+  font-family: Aharoni; 
+  position: absolute;
+  bottom:  20px;
+ left: 20px;
+}
+
+
+
+
+
